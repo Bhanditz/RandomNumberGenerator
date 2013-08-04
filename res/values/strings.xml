@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Random Number Generator</string>
+    <string name="capacity">Capacity</string>
+    <string name="generate">Generate</string>
+    <string name="shake_message">Shake device a bit</string>
+</resources>
